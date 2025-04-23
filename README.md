@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 23/04/25
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -44,7 +44,7 @@ Execute the programs and publish them.
 </body>
 </html>
 
-## OUTPUT
-![alt text](map.png)
-## RESULT
+## OUTPUT![alt text](<imagemap/mapapp/static/Screenshot 2025-04-23 232959.png>)
+![alt text](map.png)![alt text](imagemap/mapapp/static/thenkasi.png)![alt text](imagemap/mapapp/static/dam.png)
+![alt text](cuttrallam.png)## RESULT
 The program for implementing image maps using HTML is executed successfully.
